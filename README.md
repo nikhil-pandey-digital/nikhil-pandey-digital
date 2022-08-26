@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  nikhil pandey
-- 👀 I’m interested in web technology and web 3.0(blockchain)
+- 👀 I’m interested in web technology and web 3.0
 - 🌱 I’m currently learning MERN developement
 - 💞️ I’m looking to collaborate on MERN projects and web 3 projects 
 - 📫 you can reach me at:-
