@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-pandey-digital&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-pandey-digital" /> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👯 I’m looking to collaborate on **Web dev (MERN) projects**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **thenikhilpandey11@gmail.com**
 
-- ⚡ Fun fact **I ask a lot of questions, due to which people thinks I am interviewing them😅**
+- ⚡ Fun fact **I ask a lot of questions, due to which people think I am interviewing them😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
