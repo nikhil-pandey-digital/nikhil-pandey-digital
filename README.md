@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Web dev (MERN) projects**
 
-- 💬 Ask me about **WebDev,Dsa,self-help-books,Productivity,Business,Life and everything in between.**
+- 💬 Love to Discuss about **WebDev,Dsa,self-help-books,Productivity,Business,Life and everything in between.**
 
 - 📫 How to reach me **thenikhilpandey11@gmail.com**
 
-- ⚡ Fun fact **I ask a lot of questions, due to which people think I am interviewing them😅**
+- ⚡ Fun fact about me **I ask a lot of questions, due to which people think I am interviewing them😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
