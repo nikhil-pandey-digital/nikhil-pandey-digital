@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil pandey</h1>
-<h3 align="center">A Passionate FullStack developer and Open source enthusiast</h3>
+<h3 align="center">A Curious FullStack developer and Open source enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-pandey-digital&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-pandey-digital" /> </p>
 
