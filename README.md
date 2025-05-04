@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikhil pandey</h1>
-<h3 align="center">A Curious FullStack developer and Open source enthusiast</h3>
+<h3 align="center">A Curious FullStack developer and product builder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-pandey-digital&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-pandey-digital" /> </p>
 
-- 🌱 I’m currently learning **Nextjs**
+- 👯 I’m looking to collaborate on **saas projects**
 
-- 👯 I’m looking to collaborate on **Web dev (MERN) projects**
-
-- 💬 Love to Discuss about **WebDev,Dsa,self-help-books,Productivity,Business,Life and everything in between.**
+- 💬 Love to Discuss about **Tech,Product,Business**
 
 - 📫 How to reach me **thenikhilpandey11@gmail.com**
 
